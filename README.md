@@ -2,4 +2,4 @@
 
 get cheddar
 
-for the bears and the bulls. to help you dream
+for the bears and the bulls. built to help you dream
