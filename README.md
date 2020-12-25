@@ -11,3 +11,5 @@ Will change ASAP.
 Found this article on how to code a compound interest calculator: https://www.creatifwerks.com/2017/12/23/compound-interest-calculator-using-javascript/
 
 Going to build app using react and calculator code will come from JS as practice to improve JS. 
+
+Work begins tomorrow!
