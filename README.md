@@ -12,4 +12,4 @@ Found this article on how to code a compound interest calculator: https://www.cr
 
 Going to build app using react and calculator code will come from JS as practice to improve JS. 
 
-Work begins tomorrow!
+Could be built using PHP for backend: https://github.com/cowboy/php-simple-proxy
